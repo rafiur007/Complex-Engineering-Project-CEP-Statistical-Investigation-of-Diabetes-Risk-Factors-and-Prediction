@@ -1,5 +1,5 @@
 # 🩺 Pima Indians Diabetes Dataset: Statistical Analysis & Risk Factor Prediction
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rafiur007/Complex-Engineering-Project-CEP-Statistical-Investigation-of-Diabetes-Risk-Factors/blob/main/STAT_PR_CEP.ipynb)
 An evidence-based statistical analysis and exploratory data science project executed in Python and Google Colab. This project applies statistical methods, probability theory, hypothesis testing, linear regression, and data visualization to analyze the **Pima Indians Diabetes Dataset** ($n = 768$, $p = 9$) and identify key clinical risk factors for diabetes.
 
 ---
